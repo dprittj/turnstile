@@ -48,8 +48,12 @@ main{
     margin: 5px;
     padding: 5px;
 
+    p{
+        text-align: center;
+    }
+
 }
 
-p{
+#mainhead{
     text-align: center;
 }
